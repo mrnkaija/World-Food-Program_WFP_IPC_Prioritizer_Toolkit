@@ -16,7 +16,7 @@
 
 **Mandera County = Priority #1 **
 
-## Recommendation: Field Toolkit that can be deployed by WFP field teams
-- 📊 **Excel Dashboard**: Offline slicers + maps
-- 🎨 **Power BI**: Stakeholder presentations
+## Recommendation: WFP field teams to deploy this toolkit to make quick decisions to save lives
+📊 **Excel Dashboard**: Offline slicers + maps
+🎨 **Power BI**: Stakeholder presentations
 
